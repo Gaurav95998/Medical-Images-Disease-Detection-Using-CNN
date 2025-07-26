@@ -1,0 +1,8 @@
+Flask
+numpy
+tensorflow
+opencv-python
+matplotlib
+seaborn
+werkzeug
+gunicorn
